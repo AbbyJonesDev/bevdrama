@@ -1,0 +1,12 @@
+body {background-color: black;}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+img {
+    display: block;
+    max-width: 600px;
+    height: auto;
+    margin: 0 auto;
+}
