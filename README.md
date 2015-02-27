@@ -1,18 +1,14 @@
+## Beveridge Drama
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Created by students in the Beveridge Coding Club to provide information
+about the upcoming musical production at [Beveridge Magnet Middle School](http://beveridge.ops.org).
 
+### Technologies Introduced
+* [Cloud9 IDE](http://c9.io)
+* Linux command line
+* Git/GitHub for version control
+* SSH for deployment
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+### Languages and Frameworks Used
+*  HTML
+*  CSS
